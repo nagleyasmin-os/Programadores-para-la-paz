@@ -1,1 +1,7 @@
-
+GITHUB FLOW
+Crear una rama(Branch)
+Realizar Commits
+Abrir un pull request(PR)
+Rvision y Discusion
+pruebas finales(Deploy/CI)
+Fusionar(Merge)
