@@ -1,1 +1,2 @@
-
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+Al final del día, aprender a usar la terminal es como pasar de ser un pasajero a ser el piloto del avión. Al principio, esa pantalla negra impone respeto (y un poco de miedo, no nos engañemos), pero cuando logras mover archivos, crear carpetas y configurar todo un entorno con apenas un par de palabras, te sientes con un control absoluto sobre tu máquina.
