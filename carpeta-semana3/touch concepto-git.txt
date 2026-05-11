@@ -1,1 +1,9 @@
+Repositorio
 
+En términos sencillos, es un espacio virtual (una carpeta inteligente) donde se almacena todo el código de un proyecto, su historial de cambios y la documentación necesaria. No es solo un lugar para guardar archivos; es un sistema que registra quién hizo qué, cuándo lo hizo y por qué.
+
+Commit
+un commit es una instantánea (snapshot) de tus archivos en un momento específico. No es solo guardar un archivo (como haces en Word); es registrar un cambio significativo en la historia de tu proyecto.
+
+Push
+En el flujo de trabajo de Git, hacer un "Push" significa subir tus cambios confirmados (commits) desde tu repositorio local (tu computadora) hacia un repositorio remoto (como GitHub o GitLab).
