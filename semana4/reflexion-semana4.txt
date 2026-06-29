@@ -1,0 +1,8 @@
+<esta semana comprendi que node.js es la puerta para usar JavaScript fuera 
+del navegador y construir laparte logica de una aplicacion.con npm 
+aprendi a organizar un proyecto y a instalar dependenciascomo Express
+sin complicarme.Express me mostró lo facil es crear un servidor basico
+con pocas lineas de codigo y responder al navegador de inmediato al ejecutar 
+node server.js y ver el mensaje entendi en la practica que un backend queda al
+la espera de peticiones y responde.tembiuen valore Codespaces
+de github porque me permitió programar 
