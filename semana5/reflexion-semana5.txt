@@ -1,0 +1,9 @@
+Las APIs permiten que las comunidades compartan información de forma ordenada y centralizada. 
+Con una API, todos pueden enviar reportes o alertas a un mismo servidor usando un formato estándar, como JSON. 
+Esto evita que la información se pierda en grupos de WhatsApp o audios sueltos. 
+Se pueden crear rutas específicas, por ejemplo /alertas o /reportes, para clasificar cada tipo de dato. 
+Además, las APIs pueden validar los datos antes de guardarlos, evitando información falsa o incompleta. 
+También facilitan que varias aplicaciones usen la misma información al mismo tiempo. 
+Una app móvil podría mostrar las alertas, mientras una página web muestra los reportes en un mapa. 
+De esta forma, la comunidad reacciona más rápido ante emergencias o necesidades locales. 
+En resumen, las APIs organizan, validan y conectan la información de todos en un solo lugar.
