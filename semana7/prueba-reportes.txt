@@ -1,0 +1,7 @@
+[
+  {
+    "id": 1,
+    "tipo": "via cerrada"
+    "descripcion": "arbol en carretera"
+  }
+]

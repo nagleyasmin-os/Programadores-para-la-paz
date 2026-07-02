@@ -1,0 +1,11 @@
+¿Qué es un array en programación?
+respuesta:B
+
+¿Qué método HTTP se utiliza normalmente para consultar datos existentes?
+respuesta:B
+
+¿Qué método HTTP se usa normalmente para agregar información nueva?
+respuesta:B
+
+¿Cuál es el propósito de una API en una aplicación?
+respuesta:B
