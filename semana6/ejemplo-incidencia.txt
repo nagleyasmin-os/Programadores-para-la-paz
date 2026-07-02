@@ -1,0 +1,4 @@
+{
+  "tipo": "Corte de agua",
+  "descripcion": "Falta de suministro de agua potable en el barrio El Centro de Tadó desde ayer en la noche."
+}

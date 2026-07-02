@@ -1,0 +1,8 @@
+Es clave que las plataformas reciban reportes estructurados
+porque se pueden procesar de forma automática y rápida.
+Con campos como tipo y descripcion en JSON,
+el sistema entiende la información sin confusión.
+Esto ayuda a las autoridades de Tadó a priorizar
+emergencias, crear estadísticas y responder mejor.
+Evita reportes incompletos y ahorra tiempo.
+Así, la tecnología atiende problemas reales con más eficiencia.

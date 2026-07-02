@@ -1,0 +1,12 @@
+JSON enviado
+{
+    "nombre":"yasmin"
+    "mensaje":hola comunidad"
+}
+
+repuesta del servidor
+{
+  "estado":"datos recibidos"
+  "nombre":"yasmin",
+  "mensaje":"hola comunidad"
+}
