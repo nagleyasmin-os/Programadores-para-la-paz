@@ -1,0 +1,3 @@
+se inicia el servidor de node js con express el programa queda corriendo en el puerto 3000
+ese es el console log que pusimos en app.listen(3000)
+el servidor responde con un objeto json que indica que el servidor esta activo
