@@ -1,0 +1,11 @@
+¿Qué es un sistema operativo?
+repuesta: B
+
+¿Cuál de los siguientes es un sistema operativo de código abierto?
+respuesta:A
+
+¿Qué es la terminal en un sistema Linux?
+respuesta:B
+
+¿Cuál de las siguientes prácticas mejora la seguridad digital?
+respuesta:B
