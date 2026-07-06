@@ -1,0 +1,8 @@
+Una plataforma de participación ciudadana sólida requiere tres pilares fundamentales en su backend.
+La base de datos es el motor que organiza, centraliza y da trazabilidad a propuestas y votos.
+La autenticación garantiza la legitimidad del proceso, validando que cada aporte sea real.
+Este control de identidad previene el fraude, el spam y la manipulación de la voluntad popular.
+Por su parte, la protección de información resguarda los datos sensibles y el anonimato.
+El cifrado y el cumplimiento normativo blindan a los usuarios frente a posibles represalias.
+Sin seguridad, se destruye la confianza digital y los ciudadanos abandonan la deliberación.
+Esta infraestructura técnica es indispensable para garantizar procesos democráticos transparentes.
