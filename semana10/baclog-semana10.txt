@@ -1,0 +1,5 @@
+Como ciudadano quiero registrar una incidencia con foto y ubicacion.
+como coordinador quiero recibir una alerta en Telegram cuando se registre una incidencia
+como miembro del equipo quiero consultar el historial de reportes
+como ciudadano quiero ver el estado de mi reporte
+como administrador quiero exportar los reportes del mes 
