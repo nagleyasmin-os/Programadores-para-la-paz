@@ -1,0 +1,40 @@
+name: 🚀 Petición en 3 Clics
+description: Registra tu solicitud, reporte o sugerencia en solo 3 clics.
+title: "[Petición]: "
+labels: ["peticion-usuario", "triaje-pendiente"]
+body:
+  # CLIC 1: Selección de la Categoría General
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: "1. ¿Qué tipo de petición deseas realizar? (Primer Clic)"
+      description: Selecciona el área general de tu solicitud.
+      options:
+        - "🐛 Reportar un fallo / Bug"
+        - "💡 Proponer una idea o mejora"
+        - "❓ Soporte técnico o duda"
+    validations:
+      required: true
+
+  # CLIC 2: Selección del Detalle Específico
+  - type: dropdown
+    id: detalle
+    attributes:
+      label: "2. Detalla tu solicitud (Segundo Clic)"
+      description: Elige la opción que mejor describa tu situación actual.
+      options:
+        - "Bloqueo total de la aplicación (No puedo avanzar)"
+        - "Fallo visual o estético (La app funciona pero se ve mal)"
+        - "Sugerencia para una nueva funcionalidad"
+        - "Problema con mi cuenta o inicio de sesión"
+        - "Otro caso no listado"
+    validations:
+      required: true
+
+  # CLIC 3: Confirmación y Envío (Botón nativo de GitHub al final de la página)
+  - type: markdown
+    attributes:
+      value: |
+        ### 3. ¡Todo listo! (Tercer Clic)
+        Revisa que tus opciones sean correctas y haz clic en el botón verde **"Submit new issue"** de abajo para enviarnos tu petición de inmediato.
+        
