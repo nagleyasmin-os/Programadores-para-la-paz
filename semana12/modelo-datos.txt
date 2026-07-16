@@ -1,0 +1,11 @@
+FALLO TECNICO
+id IDENTIFICADOR DE USO UNICO DEL FALLO TECNICO
+titulo FALLO TECNICO
+descripcion UNA FALLA EN EL SISTEMA
+fecha 15/07/2026
+
+COORDINADOR
+id apoyo del coordinador para solucionar el fallo
+causa_id identificador de uso unico fallo tecnico
+nombre fallo tecnico
+fecha 15/07/2026
